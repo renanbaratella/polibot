@@ -21,7 +21,11 @@ Em milisegundos: <br>
 SetKeyDelay, 100 <br>
 SetMouseDelay, 40 <br>
 
-https://github.com/renanbaratella/polibot/assets/89647783/ca88db71-5932-409d-92da-56ee469e9104
+
+
+https://github.com/renanbaratella/polibot/assets/89647783/f01ec1e9-2be7-4c6f-849e-beb658ce6a83
+
+
 
 
 
