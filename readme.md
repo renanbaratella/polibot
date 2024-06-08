@@ -7,7 +7,7 @@ https://nodejs.org/en/blog/release/v12.13.0 <br>
 Execute o comando: npm install
 
 - Autohotkey(para execução do bot, v1.1) <br> 
-https://www.autohotkey.com/download/ahk-install.exe
+https://www.autohotkey.com/download/ahk-install.exe <br>
 Coloque nas variáveis de ambiente o ahk.exe da pasta autohotkey installado
 
 <b> Execução do programa: </b>
